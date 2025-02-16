@@ -1,10 +1,10 @@
-Name:
-Status:
-Technologies:
+Name: Lukas Lauerer
+Status: Winner
+Technologies: SwiftUI, SwiftData
 
-AboutMeUrl:
-SourceUrl:
-VideoUrl:
+AboutMeUrl: https://twitter.com/custusfox
+SourceUrl: -
+VideoUrl: [soon]
 
 <!---
 EXAMPLE
